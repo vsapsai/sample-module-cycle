@@ -1,4 +1,4 @@
-module c {
+module c [no_undeclared_includes] {
   header "one.h"
   header "two.h"
   export *
