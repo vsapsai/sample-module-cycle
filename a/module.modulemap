@@ -1,0 +1,4 @@
+module a {
+  header "one.h"
+  export *
+}
